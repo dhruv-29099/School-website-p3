@@ -1,0 +1,35 @@
+body{
+    font-weight: bolder;
+}
+.travel_mainDiv img{
+    width:100%;
+    height:300px;
+    }
+    .travel_mainDiv hr{
+    width:100%;
+    }
+    .travel_mainDiv h5{
+    margin-left:20px;
+    font-weight: bolder;
+    color: black;
+    }
+   #video{
+   width: 100%;
+   height: 500px;
+   }
+iframe{
+width: 100%;
+height: 500px;
+ }
+ .movie_head{
+font-size: 20px;
+padding: 6px 22px;
+border-radius: 10px;
+margin-bottom: 15px;
+ }
+ .movie_head i{
+float: right;
+ }
+ .achievements_text span{
+color: orange;
+ }
